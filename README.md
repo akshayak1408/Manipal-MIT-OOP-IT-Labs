@@ -1,2 +1,2 @@
 # Manipal-MIT-OOP-IT-Labs
-This contains all the lab codes of android development during the sixth semester of MIT, Manipal.
+This contains all the lab codes of object oriented programming during the third semester of MIT, Manipal.
